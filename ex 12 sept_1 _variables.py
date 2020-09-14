@@ -5,6 +5,10 @@
 
 #! C:\Python34\python
 # -*- coding: UTF-8 -*# pour spécifier le codage des caractères
+
+""" Programme, qui définit 3 variables : une variable de type texte, une variable de type
+nombre entier, une variable de type nombre décimal et qui affiche leur type."""
+
 print (5) # affichage de la valeur 5
 a = 5
 print (a) # affichage du contenu de a
